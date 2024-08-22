@@ -65,7 +65,7 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
        - Variable Inspection and Tracking: Helps identify and fix bugs by tracking variable values.
      Examples of IDEs:
      - Visual Studio.
-     - Android Studio.
+     - Android Studio
      - Pycharm
      - Sublimetext
 2. Version Control Systems (VCS): track changes made to files, recording modifications in code. They enable collaboration, error reduction, and efficient management of code history.
